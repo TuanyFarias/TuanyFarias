@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A013F7&width=435&lines=Olá,+meu+nome+é+Tuany!;Graduanda+em+ADS+e+estudante+de+curso+profissional+de+Data+Science;Bem-vindo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A013F7&width=435&lines=Olá,+meu+nome+é+Tuany!;Graduanda+em+ADS+e+Data+Science;Bem-vindo!" alt="Typing SVG" />
 </p>
 
  ### Main skills: 
